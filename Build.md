@@ -1,0 +1,1 @@
+docker build -t egiraffe/datomic-pro-starter .
